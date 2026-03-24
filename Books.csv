@@ -1,0 +1,501 @@
+book_id,title,author,subject,is_issued
+1,Moby Dick Vol 1,Herman Melville,Drama,TRUE
+2,The Great Gatsby Vol 5,F. Scott Fitzgerald,History,FALSE
+3,The Alchemist Vol 2,Paulo Coelho,Fiction,TRUE
+4,Pride and Prejudice Vol 4,Jane Austen,Philosophy,FALSE
+5,The Alchemist Vol 4,Paulo Coelho,Classic,TRUE
+6,The Hobbit Vol 3,J.R.R. Tolkien,Fantasy,TRUE
+7,The Great Gatsby Vol 2,F. Scott Fitzgerald,Literature,TRUE
+8,1984 Vol 3,George Orwell,Fiction,TRUE
+9,The Great Gatsby Vol 3,F. Scott Fitzgerald,Fiction,FALSE
+10,The Catcher in the Rye Vol 4,J.D. Salinger,Fiction,FALSE
+11,War and Peace Vol 4,Leo Tolstoy,Literature,TRUE
+12,War and Peace Vol 1,Leo Tolstoy,Science Fiction,FALSE
+13,The Great Gatsby Vol 4,F. Scott Fitzgerald,Science Fiction,FALSE
+14,Moby Dick Vol 2,Herman Melville,Fiction,FALSE
+15,The Alchemist Vol 1,Paulo Coelho,Drama,TRUE
+16,The Hobbit Vol 2,J.R.R. Tolkien,Science Fiction,TRUE
+17,1984 Vol 5,George Orwell,Classic,FALSE
+18,To Kill a Mockingbird Vol 1,Harper Lee,Literature,TRUE
+19,Pride and Prejudice Vol 3,Jane Austen,Drama,FALSE
+20,Pride and Prejudice Vol 1,Jane Austen,History,TRUE
+21,Pride and Prejudice Vol 5,Jane Austen,Science Fiction,TRUE
+22,War and Peace Vol 3,Leo Tolstoy,Classic,FALSE
+23,To Kill a Mockingbird Vol 3,Harper Lee,Science Fiction,TRUE
+24,The Great Gatsby Vol 4,F. Scott Fitzgerald,Literature,FALSE
+25,Brave New World Vol 4,Aldous Huxley,Classic,FALSE
+26,Pride and Prejudice Vol 4,Jane Austen,History,TRUE
+27,War and Peace Vol 5,Leo Tolstoy,History,TRUE
+28,Moby Dick Vol 1,Herman Melville,History,FALSE
+29,Moby Dick Vol 4,Herman Melville,Science Fiction,TRUE
+30,The Hobbit Vol 4,J.R.R. Tolkien,Science Fiction,TRUE
+31,The Great Gatsby Vol 3,F. Scott Fitzgerald,Fantasy,TRUE
+32,War and Peace Vol 4,Leo Tolstoy,Science Fiction,TRUE
+33,To Kill a Mockingbird Vol 4,Harper Lee,Science Fiction,TRUE
+34,Pride and Prejudice Vol 4,Jane Austen,Literature,FALSE
+35,War and Peace Vol 5,Leo Tolstoy,Literature,FALSE
+36,The Hobbit Vol 2,J.R.R. Tolkien,Fantasy,FALSE
+37,Pride and Prejudice Vol 1,Jane Austen,Fiction,TRUE
+38,The Alchemist Vol 5,Paulo Coelho,Fiction,FALSE
+39,Moby Dick Vol 5,Herman Melville,Fantasy,FALSE
+40,To Kill a Mockingbird Vol 5,Harper Lee,History,TRUE
+41,Moby Dick Vol 1,Herman Melville,Philosophy,FALSE
+42,Moby Dick Vol 5,Herman Melville,Fantasy,TRUE
+43,Pride and Prejudice Vol 1,Jane Austen,Fantasy,FALSE
+44,Pride and Prejudice Vol 5,Jane Austen,Drama,TRUE
+45,The Catcher in the Rye Vol 3,J.D. Salinger,Philosophy,FALSE
+46,The Catcher in the Rye Vol 3,J.D. Salinger,History,TRUE
+47,The Catcher in the Rye Vol 5,J.D. Salinger,Philosophy,TRUE
+48,To Kill a Mockingbird Vol 2,Harper Lee,Science Fiction,TRUE
+49,Pride and Prejudice Vol 2,Jane Austen,Drama,TRUE
+50,The Catcher in the Rye Vol 4,J.D. Salinger,Fiction,FALSE
+51,Moby Dick Vol 4,Herman Melville,Science Fiction,TRUE
+52,Moby Dick Vol 3,Herman Melville,Drama,FALSE
+53,To Kill a Mockingbird Vol 3,Harper Lee,Classic,FALSE
+54,The Catcher in the Rye Vol 1,J.D. Salinger,Science Fiction,TRUE
+55,1984 Vol 3,George Orwell,Literature,FALSE
+56,To Kill a Mockingbird Vol 2,Harper Lee,Fantasy,TRUE
+57,The Hobbit Vol 5,J.R.R. Tolkien,Drama,TRUE
+58,The Great Gatsby Vol 2,F. Scott Fitzgerald,Philosophy,TRUE
+59,Brave New World Vol 5,Aldous Huxley,Philosophy,TRUE
+60,1984 Vol 3,George Orwell,Philosophy,FALSE
+61,The Hobbit Vol 3,J.R.R. Tolkien,Drama,FALSE
+62,War and Peace Vol 4,Leo Tolstoy,Fantasy,TRUE
+63,Brave New World Vol 4,Aldous Huxley,Fantasy,FALSE
+64,Pride and Prejudice Vol 1,Jane Austen,Drama,FALSE
+65,The Hobbit Vol 5,J.R.R. Tolkien,Literature,FALSE
+66,The Great Gatsby Vol 1,F. Scott Fitzgerald,History,TRUE
+67,To Kill a Mockingbird Vol 4,Harper Lee,Classic,TRUE
+68,Moby Dick Vol 1,Herman Melville,Literature,TRUE
+69,Moby Dick Vol 5,Herman Melville,Philosophy,TRUE
+70,Moby Dick Vol 5,Herman Melville,Fantasy,FALSE
+71,Pride and Prejudice Vol 3,Jane Austen,Literature,FALSE
+72,The Alchemist Vol 4,Paulo Coelho,Fantasy,FALSE
+73,The Great Gatsby Vol 2,F. Scott Fitzgerald,Literature,TRUE
+74,Brave New World Vol 3,Aldous Huxley,Fiction,FALSE
+75,The Great Gatsby Vol 1,F. Scott Fitzgerald,Science Fiction,FALSE
+76,The Alchemist Vol 3,Paulo Coelho,Classic,FALSE
+77,The Great Gatsby Vol 2,F. Scott Fitzgerald,Fiction,FALSE
+78,The Hobbit Vol 1,J.R.R. Tolkien,Literature,FALSE
+79,The Great Gatsby Vol 4,F. Scott Fitzgerald,Fantasy,TRUE
+80,Moby Dick Vol 3,Herman Melville,Philosophy,FALSE
+81,The Alchemist Vol 4,Paulo Coelho,History,FALSE
+82,Moby Dick Vol 3,Herman Melville,Science Fiction,FALSE
+83,To Kill a Mockingbird Vol 5,Harper Lee,Fantasy,TRUE
+84,The Hobbit Vol 1,J.R.R. Tolkien,Classic,TRUE
+85,War and Peace Vol 4,Leo Tolstoy,Drama,TRUE
+86,To Kill a Mockingbird Vol 4,Harper Lee,History,TRUE
+87,The Hobbit Vol 2,J.R.R. Tolkien,Drama,TRUE
+88,The Great Gatsby Vol 4,F. Scott Fitzgerald,Fiction,TRUE
+89,Moby Dick Vol 3,Herman Melville,Fantasy,FALSE
+90,1984 Vol 1,George Orwell,Literature,TRUE
+91,The Alchemist Vol 3,Paulo Coelho,Fantasy,TRUE
+92,Moby Dick Vol 4,Herman Melville,Philosophy,TRUE
+93,Moby Dick Vol 2,Herman Melville,Science Fiction,FALSE
+94,The Catcher in the Rye Vol 4,J.D. Salinger,Classic,TRUE
+95,War and Peace Vol 2,Leo Tolstoy,Fantasy,TRUE
+96,The Catcher in the Rye Vol 4,J.D. Salinger,Fiction,TRUE
+97,Brave New World Vol 2,Aldous Huxley,Classic,TRUE
+98,The Catcher in the Rye Vol 2,J.D. Salinger,Fiction,FALSE
+99,To Kill a Mockingbird Vol 4,Harper Lee,Fantasy,TRUE
+100,To Kill a Mockingbird Vol 3,Harper Lee,Fantasy,TRUE
+101,The Catcher in the Rye Vol 5,J.D. Salinger,Philosophy,TRUE
+102,Pride and Prejudice Vol 2,Jane Austen,Literature,FALSE
+103,The Alchemist Vol 5,Paulo Coelho,Philosophy,FALSE
+104,The Hobbit Vol 2,J.R.R. Tolkien,History,FALSE
+105,Moby Dick Vol 4,Herman Melville,Fiction,FALSE
+106,The Catcher in the Rye Vol 4,J.D. Salinger,Science Fiction,FALSE
+107,The Catcher in the Rye Vol 2,J.D. Salinger,Literature,FALSE
+108,War and Peace Vol 3,Leo Tolstoy,Fiction,TRUE
+109,The Hobbit Vol 4,J.R.R. Tolkien,Fiction,FALSE
+110,Brave New World Vol 4,Aldous Huxley,History,TRUE
+111,War and Peace Vol 4,Leo Tolstoy,Science Fiction,FALSE
+112,The Hobbit Vol 1,J.R.R. Tolkien,Literature,TRUE
+113,Brave New World Vol 2,Aldous Huxley,Science Fiction,TRUE
+114,The Great Gatsby Vol 4,F. Scott Fitzgerald,Philosophy,TRUE
+115,The Hobbit Vol 2,J.R.R. Tolkien,Fantasy,TRUE
+116,The Great Gatsby Vol 3,F. Scott Fitzgerald,History,TRUE
+117,Brave New World Vol 5,Aldous Huxley,Drama,FALSE
+118,Pride and Prejudice Vol 5,Jane Austen,Literature,TRUE
+119,Pride and Prejudice Vol 2,Jane Austen,Science Fiction,TRUE
+120,Pride and Prejudice Vol 2,Jane Austen,Science Fiction,TRUE
+121,Brave New World Vol 1,Aldous Huxley,History,TRUE
+122,The Catcher in the Rye Vol 3,J.D. Salinger,Literature,TRUE
+123,The Alchemist Vol 3,Paulo Coelho,Science Fiction,FALSE
+124,War and Peace Vol 4,Leo Tolstoy,Fiction,FALSE
+125,The Great Gatsby Vol 4,F. Scott Fitzgerald,Literature,TRUE
+126,The Hobbit Vol 2,J.R.R. Tolkien,Classic,TRUE
+127,War and Peace Vol 2,Leo Tolstoy,History,TRUE
+128,Pride and Prejudice Vol 4,Jane Austen,Drama,FALSE
+129,The Great Gatsby Vol 1,F. Scott Fitzgerald,Fiction,TRUE
+130,The Hobbit Vol 3,J.R.R. Tolkien,Philosophy,FALSE
+131,Moby Dick Vol 1,Herman Melville,Classic,TRUE
+132,The Great Gatsby Vol 1,F. Scott Fitzgerald,History,TRUE
+133,Moby Dick Vol 2,Herman Melville,Drama,FALSE
+134,1984 Vol 1,George Orwell,Literature,FALSE
+135,The Hobbit Vol 2,J.R.R. Tolkien,Philosophy,FALSE
+136,To Kill a Mockingbird Vol 4,Harper Lee,Drama,FALSE
+137,Moby Dick Vol 5,Herman Melville,Literature,TRUE
+138,1984 Vol 3,George Orwell,Science Fiction,TRUE
+139,Moby Dick Vol 5,Herman Melville,Science Fiction,FALSE
+140,War and Peace Vol 3,Leo Tolstoy,Classic,FALSE
+141,War and Peace Vol 1,Leo Tolstoy,Philosophy,TRUE
+142,Pride and Prejudice Vol 3,Jane Austen,Literature,FALSE
+143,War and Peace Vol 3,Leo Tolstoy,Drama,TRUE
+144,Brave New World Vol 5,Aldous Huxley,Literature,TRUE
+145,Pride and Prejudice Vol 3,Jane Austen,Philosophy,TRUE
+146,Pride and Prejudice Vol 3,Jane Austen,History,FALSE
+147,War and Peace Vol 2,Leo Tolstoy,History,TRUE
+148,1984 Vol 4,George Orwell,Fiction,TRUE
+149,To Kill a Mockingbird Vol 4,Harper Lee,Philosophy,TRUE
+150,Moby Dick Vol 2,Herman Melville,Classic,TRUE
+151,1984 Vol 5,George Orwell,Fiction,TRUE
+152,The Great Gatsby Vol 5,F. Scott Fitzgerald,Drama,TRUE
+153,To Kill a Mockingbird Vol 3,Harper Lee,Fiction,TRUE
+154,The Great Gatsby Vol 5,F. Scott Fitzgerald,Literature,TRUE
+155,Moby Dick Vol 5,Herman Melville,Science Fiction,FALSE
+156,Brave New World Vol 1,Aldous Huxley,Science Fiction,TRUE
+157,War and Peace Vol 1,Leo Tolstoy,Drama,FALSE
+158,The Alchemist Vol 3,Paulo Coelho,History,TRUE
+159,To Kill a Mockingbird Vol 3,Harper Lee,Fantasy,TRUE
+160,To Kill a Mockingbird Vol 1,Harper Lee,Drama,TRUE
+161,The Alchemist Vol 1,Paulo Coelho,Literature,TRUE
+162,The Hobbit Vol 4,J.R.R. Tolkien,Science Fiction,TRUE
+163,1984 Vol 3,George Orwell,Literature,TRUE
+164,War and Peace Vol 1,Leo Tolstoy,Fiction,TRUE
+165,The Hobbit Vol 3,J.R.R. Tolkien,Science Fiction,FALSE
+166,War and Peace Vol 2,Leo Tolstoy,Literature,FALSE
+167,To Kill a Mockingbird Vol 3,Harper Lee,History,TRUE
+168,The Catcher in the Rye Vol 5,J.D. Salinger,Science Fiction,TRUE
+169,Brave New World Vol 4,Aldous Huxley,Science Fiction,TRUE
+170,Pride and Prejudice Vol 1,Jane Austen,Drama,TRUE
+171,To Kill a Mockingbird Vol 2,Harper Lee,Drama,TRUE
+172,Moby Dick Vol 4,Herman Melville,Classic,FALSE
+173,War and Peace Vol 4,Leo Tolstoy,Classic,TRUE
+174,Moby Dick Vol 3,Herman Melville,Fantasy,TRUE
+175,War and Peace Vol 4,Leo Tolstoy,Philosophy,FALSE
+176,War and Peace Vol 1,Leo Tolstoy,Fantasy,TRUE
+177,War and Peace Vol 1,Leo Tolstoy,History,TRUE
+178,War and Peace Vol 3,Leo Tolstoy,Fantasy,TRUE
+179,The Hobbit Vol 2,J.R.R. Tolkien,Literature,FALSE
+180,Brave New World Vol 3,Aldous Huxley,History,FALSE
+181,Brave New World Vol 1,Aldous Huxley,History,TRUE
+182,To Kill a Mockingbird Vol 5,Harper Lee,Drama,FALSE
+183,Pride and Prejudice Vol 1,Jane Austen,Literature,FALSE
+184,The Hobbit Vol 2,J.R.R. Tolkien,Classic,TRUE
+185,War and Peace Vol 4,Leo Tolstoy,Fantasy,FALSE
+186,1984 Vol 3,George Orwell,Fantasy,FALSE
+187,Brave New World Vol 1,Aldous Huxley,Science Fiction,TRUE
+188,The Hobbit Vol 1,J.R.R. Tolkien,Literature,FALSE
+189,The Catcher in the Rye Vol 1,J.D. Salinger,Classic,TRUE
+190,Brave New World Vol 1,Aldous Huxley,History,TRUE
+191,Pride and Prejudice Vol 3,Jane Austen,Fiction,FALSE
+192,The Hobbit Vol 2,J.R.R. Tolkien,Fantasy,FALSE
+193,Moby Dick Vol 1,Herman Melville,Fiction,TRUE
+194,The Great Gatsby Vol 5,F. Scott Fitzgerald,Drama,FALSE
+195,The Catcher in the Rye Vol 2,J.D. Salinger,Science Fiction,TRUE
+196,The Alchemist Vol 3,Paulo Coelho,Science Fiction,TRUE
+197,The Alchemist Vol 3,Paulo Coelho,History,FALSE
+198,To Kill a Mockingbird Vol 4,Harper Lee,Literature,FALSE
+199,Brave New World Vol 4,Aldous Huxley,Literature,TRUE
+200,Pride and Prejudice Vol 4,Jane Austen,History,TRUE
+201,To Kill a Mockingbird Vol 4,Harper Lee,History,FALSE
+202,The Great Gatsby Vol 5,F. Scott Fitzgerald,Philosophy,TRUE
+203,The Alchemist Vol 2,Paulo Coelho,Philosophy,TRUE
+204,Moby Dick Vol 1,Herman Melville,History,TRUE
+205,Brave New World Vol 1,Aldous Huxley,History,TRUE
+206,Pride and Prejudice Vol 2,Jane Austen,Science Fiction,FALSE
+207,Pride and Prejudice Vol 4,Jane Austen,Science Fiction,TRUE
+208,The Hobbit Vol 3,J.R.R. Tolkien,Fantasy,TRUE
+209,The Catcher in the Rye Vol 3,J.D. Salinger,Literature,FALSE
+210,To Kill a Mockingbird Vol 3,Harper Lee,History,FALSE
+211,War and Peace Vol 4,Leo Tolstoy,History,TRUE
+212,The Hobbit Vol 4,J.R.R. Tolkien,Science Fiction,TRUE
+213,1984 Vol 3,George Orwell,Literature,FALSE
+214,The Great Gatsby Vol 1,F. Scott Fitzgerald,Fantasy,TRUE
+215,The Catcher in the Rye Vol 5,J.D. Salinger,Classic,FALSE
+216,The Catcher in the Rye Vol 3,J.D. Salinger,Literature,FALSE
+217,The Catcher in the Rye Vol 2,J.D. Salinger,Science Fiction,FALSE
+218,To Kill a Mockingbird Vol 4,Harper Lee,Fantasy,FALSE
+219,The Alchemist Vol 2,Paulo Coelho,Philosophy,TRUE
+220,Pride and Prejudice Vol 4,Jane Austen,Philosophy,FALSE
+221,The Catcher in the Rye Vol 2,J.D. Salinger,Fantasy,TRUE
+222,War and Peace Vol 3,Leo Tolstoy,Philosophy,TRUE
+223,Moby Dick Vol 1,Herman Melville,Fiction,TRUE
+224,Pride and Prejudice Vol 3,Jane Austen,Fantasy,TRUE
+225,1984 Vol 5,George Orwell,Classic,FALSE
+226,War and Peace Vol 2,Leo Tolstoy,Drama,TRUE
+227,The Alchemist Vol 3,Paulo Coelho,Fiction,FALSE
+228,Moby Dick Vol 2,Herman Melville,Science Fiction,FALSE
+229,Brave New World Vol 2,Aldous Huxley,Science Fiction,TRUE
+230,The Hobbit Vol 2,J.R.R. Tolkien,Drama,FALSE
+231,Moby Dick Vol 5,Herman Melville,History,TRUE
+232,War and Peace Vol 1,Leo Tolstoy,Classic,TRUE
+233,To Kill a Mockingbird Vol 3,Harper Lee,Fiction,FALSE
+234,Moby Dick Vol 4,Herman Melville,Philosophy,FALSE
+235,1984 Vol 2,George Orwell,Science Fiction,TRUE
+236,1984 Vol 5,George Orwell,History,FALSE
+237,The Great Gatsby Vol 3,F. Scott Fitzgerald,Fiction,FALSE
+238,Pride and Prejudice Vol 1,Jane Austen,Classic,FALSE
+239,Pride and Prejudice Vol 3,Jane Austen,Fiction,FALSE
+240,The Great Gatsby Vol 5,F. Scott Fitzgerald,Literature,TRUE
+241,The Great Gatsby Vol 5,F. Scott Fitzgerald,Fantasy,FALSE
+242,1984 Vol 2,George Orwell,Science Fiction,TRUE
+243,The Great Gatsby Vol 4,F. Scott Fitzgerald,Fiction,FALSE
+244,Brave New World Vol 2,Aldous Huxley,Fantasy,TRUE
+245,The Great Gatsby Vol 4,F. Scott Fitzgerald,Science Fiction,TRUE
+246,Pride and Prejudice Vol 4,Jane Austen,Classic,TRUE
+247,1984 Vol 3,George Orwell,Drama,FALSE
+248,The Hobbit Vol 1,J.R.R. Tolkien,Science Fiction,FALSE
+249,Pride and Prejudice Vol 3,Jane Austen,Fantasy,TRUE
+250,Pride and Prejudice Vol 3,Jane Austen,Classic,TRUE
+251,Moby Dick Vol 3,Herman Melville,Science Fiction,TRUE
+252,Pride and Prejudice Vol 2,Jane Austen,Classic,TRUE
+253,The Great Gatsby Vol 2,F. Scott Fitzgerald,History,FALSE
+254,Brave New World Vol 3,Aldous Huxley,Fiction,TRUE
+255,The Great Gatsby Vol 3,F. Scott Fitzgerald,Science Fiction,FALSE
+256,The Alchemist Vol 2,Paulo Coelho,History,FALSE
+257,The Alchemist Vol 5,Paulo Coelho,History,TRUE
+258,Brave New World Vol 2,Aldous Huxley,Classic,FALSE
+259,1984 Vol 4,George Orwell,Science Fiction,TRUE
+260,1984 Vol 3,George Orwell,Drama,TRUE
+261,Brave New World Vol 1,Aldous Huxley,Literature,FALSE
+262,1984 Vol 3,George Orwell,Fiction,TRUE
+263,Brave New World Vol 4,Aldous Huxley,Drama,TRUE
+264,Moby Dick Vol 4,Herman Melville,Literature,FALSE
+265,The Great Gatsby Vol 2,F. Scott Fitzgerald,Philosophy,TRUE
+266,Moby Dick Vol 2,Herman Melville,Fantasy,TRUE
+267,Pride and Prejudice Vol 5,Jane Austen,Fantasy,TRUE
+268,War and Peace Vol 2,Leo Tolstoy,Drama,FALSE
+269,The Alchemist Vol 3,Paulo Coelho,Science Fiction,TRUE
+270,The Alchemist Vol 2,Paulo Coelho,Literature,TRUE
+271,Brave New World Vol 4,Aldous Huxley,Literature,TRUE
+272,War and Peace Vol 4,Leo Tolstoy,Drama,FALSE
+273,1984 Vol 5,George Orwell,Drama,TRUE
+274,The Alchemist Vol 4,Paulo Coelho,Drama,TRUE
+275,War and Peace Vol 3,Leo Tolstoy,History,TRUE
+276,The Great Gatsby Vol 5,F. Scott Fitzgerald,Classic,TRUE
+277,1984 Vol 3,George Orwell,Literature,TRUE
+278,To Kill a Mockingbird Vol 2,Harper Lee,History,FALSE
+279,To Kill a Mockingbird Vol 5,Harper Lee,Fiction,FALSE
+280,To Kill a Mockingbird Vol 4,Harper Lee,Fantasy,TRUE
+281,1984 Vol 1,George Orwell,Drama,TRUE
+282,To Kill a Mockingbird Vol 5,Harper Lee,Science Fiction,TRUE
+283,War and Peace Vol 1,Leo Tolstoy,Philosophy,FALSE
+284,Pride and Prejudice Vol 3,Jane Austen,History,TRUE
+285,Brave New World Vol 4,Aldous Huxley,Fantasy,TRUE
+286,War and Peace Vol 1,Leo Tolstoy,Science Fiction,TRUE
+287,Brave New World Vol 5,Aldous Huxley,Classic,FALSE
+288,The Great Gatsby Vol 2,F. Scott Fitzgerald,Philosophy,FALSE
+289,The Hobbit Vol 2,J.R.R. Tolkien,Fiction,TRUE
+290,Brave New World Vol 2,Aldous Huxley,Fiction,FALSE
+291,War and Peace Vol 5,Leo Tolstoy,History,TRUE
+292,Brave New World Vol 1,Aldous Huxley,Fiction,TRUE
+293,The Alchemist Vol 2,Paulo Coelho,History,FALSE
+294,1984 Vol 3,George Orwell,Fantasy,TRUE
+295,Brave New World Vol 5,Aldous Huxley,Fiction,TRUE
+296,War and Peace Vol 2,Leo Tolstoy,Fiction,TRUE
+297,Moby Dick Vol 3,Herman Melville,Fiction,FALSE
+298,Brave New World Vol 5,Aldous Huxley,History,FALSE
+299,To Kill a Mockingbird Vol 4,Harper Lee,Science Fiction,FALSE
+300,1984 Vol 4,George Orwell,Fantasy,FALSE
+301,The Catcher in the Rye Vol 5,J.D. Salinger,Fantasy,FALSE
+302,War and Peace Vol 3,Leo Tolstoy,Drama,TRUE
+303,Moby Dick Vol 4,Herman Melville,Fantasy,FALSE
+304,The Great Gatsby Vol 4,F. Scott Fitzgerald,Science Fiction,FALSE
+305,Brave New World Vol 5,Aldous Huxley,Fantasy,FALSE
+306,War and Peace Vol 1,Leo Tolstoy,Philosophy,TRUE
+307,1984 Vol 2,George Orwell,Fantasy,FALSE
+308,The Catcher in the Rye Vol 4,J.D. Salinger,Fiction,FALSE
+309,The Alchemist Vol 1,Paulo Coelho,Drama,FALSE
+310,The Hobbit Vol 3,J.R.R. Tolkien,Fiction,TRUE
+311,To Kill a Mockingbird Vol 4,Harper Lee,Classic,FALSE
+312,The Hobbit Vol 2,J.R.R. Tolkien,Classic,TRUE
+313,The Great Gatsby Vol 3,F. Scott Fitzgerald,Literature,TRUE
+314,Pride and Prejudice Vol 1,Jane Austen,Literature,TRUE
+315,Moby Dick Vol 2,Herman Melville,Philosophy,FALSE
+316,The Great Gatsby Vol 2,F. Scott Fitzgerald,Literature,FALSE
+317,Brave New World Vol 5,Aldous Huxley,Literature,TRUE
+318,The Alchemist Vol 4,Paulo Coelho,Classic,FALSE
+319,To Kill a Mockingbird Vol 4,Harper Lee,Drama,FALSE
+320,Moby Dick Vol 4,Herman Melville,Fantasy,FALSE
+321,The Hobbit Vol 3,J.R.R. Tolkien,Philosophy,FALSE
+322,The Great Gatsby Vol 4,F. Scott Fitzgerald,Literature,FALSE
+323,War and Peace Vol 5,Leo Tolstoy,Fiction,FALSE
+324,Brave New World Vol 3,Aldous Huxley,Classic,FALSE
+325,The Hobbit Vol 3,J.R.R. Tolkien,Classic,TRUE
+326,1984 Vol 5,George Orwell,Drama,TRUE
+327,The Great Gatsby Vol 3,F. Scott Fitzgerald,Science Fiction,FALSE
+328,1984 Vol 4,George Orwell,History,FALSE
+329,Brave New World Vol 5,Aldous Huxley,Science Fiction,TRUE
+330,The Catcher in the Rye Vol 5,J.D. Salinger,Science Fiction,FALSE
+331,Pride and Prejudice Vol 3,Jane Austen,Fiction,FALSE
+332,Pride and Prejudice Vol 3,Jane Austen,Classic,TRUE
+333,The Hobbit Vol 3,J.R.R. Tolkien,History,FALSE
+334,The Alchemist Vol 3,Paulo Coelho,Science Fiction,TRUE
+335,To Kill a Mockingbird Vol 3,Harper Lee,Literature,FALSE
+336,Brave New World Vol 3,Aldous Huxley,Science Fiction,TRUE
+337,To Kill a Mockingbird Vol 2,Harper Lee,Drama,FALSE
+338,The Hobbit Vol 5,J.R.R. Tolkien,Philosophy,TRUE
+339,War and Peace Vol 2,Leo Tolstoy,Drama,TRUE
+340,Pride and Prejudice Vol 4,Jane Austen,Fantasy,FALSE
+341,The Great Gatsby Vol 3,F. Scott Fitzgerald,Science Fiction,TRUE
+342,War and Peace Vol 2,Leo Tolstoy,Drama,FALSE
+343,Brave New World Vol 2,Aldous Huxley,Classic,TRUE
+344,Moby Dick Vol 1,Herman Melville,Fiction,TRUE
+345,The Great Gatsby Vol 2,F. Scott Fitzgerald,Drama,TRUE
+346,Pride and Prejudice Vol 3,Jane Austen,Fiction,TRUE
+347,The Alchemist Vol 3,Paulo Coelho,Fiction,FALSE
+348,The Alchemist Vol 3,Paulo Coelho,Drama,FALSE
+349,The Alchemist Vol 3,Paulo Coelho,Fantasy,TRUE
+350,The Great Gatsby Vol 3,F. Scott Fitzgerald,Fantasy,TRUE
+351,War and Peace Vol 2,Leo Tolstoy,Fantasy,FALSE
+352,To Kill a Mockingbird Vol 1,Harper Lee,History,FALSE
+353,To Kill a Mockingbird Vol 2,Harper Lee,Drama,FALSE
+354,Moby Dick Vol 4,Herman Melville,Philosophy,TRUE
+355,Pride and Prejudice Vol 3,Jane Austen,Drama,FALSE
+356,1984 Vol 4,George Orwell,Science Fiction,TRUE
+357,The Catcher in the Rye Vol 1,J.D. Salinger,Classic,TRUE
+358,1984 Vol 4,George Orwell,Literature,FALSE
+359,The Great Gatsby Vol 2,F. Scott Fitzgerald,Science Fiction,FALSE
+360,Pride and Prejudice Vol 3,Jane Austen,Classic,FALSE
+361,The Hobbit Vol 5,J.R.R. Tolkien,Classic,TRUE
+362,The Catcher in the Rye Vol 5,J.D. Salinger,Drama,FALSE
+363,Moby Dick Vol 3,Herman Melville,Drama,TRUE
+364,1984 Vol 3,George Orwell,Classic,FALSE
+365,War and Peace Vol 5,Leo Tolstoy,Science Fiction,FALSE
+366,To Kill a Mockingbird Vol 4,Harper Lee,Drama,FALSE
+367,War and Peace Vol 3,Leo Tolstoy,Classic,FALSE
+368,Brave New World Vol 5,Aldous Huxley,Fiction,FALSE
+369,The Hobbit Vol 5,J.R.R. Tolkien,Fantasy,TRUE
+370,Pride and Prejudice Vol 5,Jane Austen,Literature,TRUE
+371,The Great Gatsby Vol 2,F. Scott Fitzgerald,Fiction,TRUE
+372,To Kill a Mockingbird Vol 5,Harper Lee,Science Fiction,FALSE
+373,1984 Vol 3,George Orwell,Science Fiction,FALSE
+374,Brave New World Vol 4,Aldous Huxley,Literature,TRUE
+375,The Hobbit Vol 1,J.R.R. Tolkien,Classic,TRUE
+376,War and Peace Vol 2,Leo Tolstoy,Literature,FALSE
+377,War and Peace Vol 1,Leo Tolstoy,Philosophy,TRUE
+378,To Kill a Mockingbird Vol 4,Harper Lee,Drama,FALSE
+379,To Kill a Mockingbird Vol 1,Harper Lee,Fantasy,TRUE
+380,1984 Vol 2,George Orwell,Fantasy,FALSE
+381,The Hobbit Vol 3,J.R.R. Tolkien,History,FALSE
+382,The Hobbit Vol 3,J.R.R. Tolkien,Drama,TRUE
+383,The Hobbit Vol 3,J.R.R. Tolkien,Fantasy,FALSE
+384,Brave New World Vol 3,Aldous Huxley,History,FALSE
+385,Moby Dick Vol 5,Herman Melville,Fiction,FALSE
+386,The Alchemist Vol 2,Paulo Coelho,Drama,TRUE
+387,The Catcher in the Rye Vol 3,J.D. Salinger,Literature,TRUE
+388,The Great Gatsby Vol 4,F. Scott Fitzgerald,Science Fiction,FALSE
+389,To Kill a Mockingbird Vol 5,Harper Lee,Fiction,FALSE
+390,To Kill a Mockingbird Vol 3,Harper Lee,Science Fiction,FALSE
+391,Brave New World Vol 4,Aldous Huxley,Drama,FALSE
+392,The Alchemist Vol 1,Paulo Coelho,Classic,TRUE
+393,Pride and Prejudice Vol 1,Jane Austen,Philosophy,FALSE
+394,The Alchemist Vol 2,Paulo Coelho,Drama,TRUE
+395,War and Peace Vol 5,Leo Tolstoy,Philosophy,TRUE
+396,Moby Dick Vol 5,Herman Melville,Philosophy,TRUE
+397,Brave New World Vol 3,Aldous Huxley,Drama,TRUE
+398,Moby Dick Vol 3,Herman Melville,Literature,FALSE
+399,The Hobbit Vol 3,J.R.R. Tolkien,Fiction,TRUE
+400,Pride and Prejudice Vol 4,Jane Austen,Classic,TRUE
+401,1984 Vol 1,George Orwell,Philosophy,FALSE
+402,To Kill a Mockingbird Vol 3,Harper Lee,Fantasy,TRUE
+403,To Kill a Mockingbird Vol 4,Harper Lee,History,FALSE
+404,War and Peace Vol 4,Leo Tolstoy,Drama,TRUE
+405,1984 Vol 4,George Orwell,Drama,FALSE
+406,War and Peace Vol 3,Leo Tolstoy,Classic,TRUE
+407,The Alchemist Vol 1,Paulo Coelho,Literature,TRUE
+408,The Great Gatsby Vol 5,F. Scott Fitzgerald,History,TRUE
+409,Pride and Prejudice Vol 5,Jane Austen,Philosophy,TRUE
+410,The Catcher in the Rye Vol 1,J.D. Salinger,Fantasy,FALSE
+411,The Alchemist Vol 2,Paulo Coelho,Drama,TRUE
+412,The Alchemist Vol 3,Paulo Coelho,Drama,TRUE
+413,Pride and Prejudice Vol 2,Jane Austen,Philosophy,FALSE
+414,The Catcher in the Rye Vol 2,J.D. Salinger,Philosophy,FALSE
+415,War and Peace Vol 2,Leo Tolstoy,Drama,TRUE
+416,Moby Dick Vol 2,Herman Melville,Science Fiction,TRUE
+417,The Alchemist Vol 4,Paulo Coelho,Fiction,TRUE
+418,1984 Vol 2,George Orwell,Literature,FALSE
+419,Moby Dick Vol 4,Herman Melville,Science Fiction,FALSE
+420,The Alchemist Vol 2,Paulo Coelho,History,TRUE
+421,Moby Dick Vol 4,Herman Melville,Classic,FALSE
+422,The Great Gatsby Vol 1,F. Scott Fitzgerald,Literature,TRUE
+423,The Hobbit Vol 2,J.R.R. Tolkien,Fiction,FALSE
+424,War and Peace Vol 5,Leo Tolstoy,Fiction,FALSE
+425,Pride and Prejudice Vol 3,Jane Austen,Fiction,TRUE
+426,1984 Vol 5,George Orwell,Science Fiction,TRUE
+427,To Kill a Mockingbird Vol 2,Harper Lee,Science Fiction,TRUE
+428,1984 Vol 2,George Orwell,Classic,TRUE
+429,Brave New World Vol 2,Aldous Huxley,Literature,FALSE
+430,Brave New World Vol 2,Aldous Huxley,Philosophy,TRUE
+431,War and Peace Vol 5,Leo Tolstoy,Philosophy,FALSE
+432,The Great Gatsby Vol 1,F. Scott Fitzgerald,Literature,TRUE
+433,The Alchemist Vol 1,Paulo Coelho,Drama,TRUE
+434,Pride and Prejudice Vol 5,Jane Austen,Philosophy,TRUE
+435,Brave New World Vol 4,Aldous Huxley,Literature,FALSE
+436,War and Peace Vol 5,Leo Tolstoy,Literature,TRUE
+437,Pride and Prejudice Vol 2,Jane Austen,Science Fiction,FALSE
+438,The Great Gatsby Vol 5,F. Scott Fitzgerald,Classic,TRUE
+439,1984 Vol 5,George Orwell,Drama,FALSE
+440,The Alchemist Vol 3,Paulo Coelho,Science Fiction,FALSE
+441,Brave New World Vol 4,Aldous Huxley,Fiction,TRUE
+442,The Alchemist Vol 5,Paulo Coelho,History,TRUE
+443,Pride and Prejudice Vol 2,Jane Austen,Classic,TRUE
+444,Moby Dick Vol 5,Herman Melville,Fiction,TRUE
+445,The Alchemist Vol 2,Paulo Coelho,History,TRUE
+446,To Kill a Mockingbird Vol 5,Harper Lee,Philosophy,FALSE
+447,The Great Gatsby Vol 2,F. Scott Fitzgerald,Philosophy,FALSE
+448,To Kill a Mockingbird Vol 2,Harper Lee,Science Fiction,FALSE
+449,The Hobbit Vol 4,J.R.R. Tolkien,Fiction,FALSE
+450,The Alchemist Vol 4,Paulo Coelho,Fantasy,TRUE
+451,Brave New World Vol 4,Aldous Huxley,Philosophy,FALSE
+452,The Hobbit Vol 4,J.R.R. Tolkien,History,FALSE
+453,Brave New World Vol 4,Aldous Huxley,Literature,FALSE
+454,The Great Gatsby Vol 4,F. Scott Fitzgerald,Fiction,TRUE
+455,Moby Dick Vol 5,Herman Melville,Drama,FALSE
+456,The Great Gatsby Vol 4,F. Scott Fitzgerald,Fantasy,TRUE
+457,Brave New World Vol 4,Aldous Huxley,Literature,FALSE
+458,The Hobbit Vol 1,J.R.R. Tolkien,Literature,TRUE
+459,The Catcher in the Rye Vol 2,J.D. Salinger,Science Fiction,FALSE
+460,War and Peace Vol 1,Leo Tolstoy,Science Fiction,TRUE
+461,The Catcher in the Rye Vol 1,J.D. Salinger,Philosophy,TRUE
+462,War and Peace Vol 4,Leo Tolstoy,Drama,FALSE
+463,Moby Dick Vol 5,Herman Melville,Science Fiction,TRUE
+464,The Hobbit Vol 1,J.R.R. Tolkien,Science Fiction,FALSE
+465,Pride and Prejudice Vol 2,Jane Austen,History,TRUE
+466,The Alchemist Vol 5,Paulo Coelho,Fiction,FALSE
+467,1984 Vol 4,George Orwell,Fiction,FALSE
+468,1984 Vol 2,George Orwell,History,TRUE
+469,War and Peace Vol 2,Leo Tolstoy,Literature,FALSE
+470,The Great Gatsby Vol 4,F. Scott Fitzgerald,Drama,TRUE
+471,War and Peace Vol 5,Leo Tolstoy,Fantasy,FALSE
+472,Moby Dick Vol 3,Herman Melville,Fantasy,FALSE
+473,Pride and Prejudice Vol 1,Jane Austen,Classic,TRUE
+474,The Catcher in the Rye Vol 1,J.D. Salinger,Literature,TRUE
+475,The Hobbit Vol 5,J.R.R. Tolkien,Science Fiction,FALSE
+476,The Great Gatsby Vol 1,F. Scott Fitzgerald,Literature,TRUE
+477,The Hobbit Vol 2,J.R.R. Tolkien,Drama,FALSE
+478,1984 Vol 1,George Orwell,Drama,FALSE
+479,To Kill a Mockingbird Vol 2,Harper Lee,Science Fiction,FALSE
+480,The Hobbit Vol 4,J.R.R. Tolkien,Classic,FALSE
+481,The Hobbit Vol 2,J.R.R. Tolkien,Science Fiction,TRUE
+482,Brave New World Vol 4,Aldous Huxley,Philosophy,TRUE
+483,War and Peace Vol 4,Leo Tolstoy,History,TRUE
+484,Brave New World Vol 1,Aldous Huxley,Fantasy,TRUE
+485,Brave New World Vol 5,Aldous Huxley,Fantasy,FALSE
+486,1984 Vol 1,George Orwell,Classic,TRUE
+487,The Great Gatsby Vol 3,F. Scott Fitzgerald,Fantasy,TRUE
+488,The Alchemist Vol 2,Paulo Coelho,Philosophy,FALSE
+489,The Hobbit Vol 5,J.R.R. Tolkien,Drama,FALSE
+490,1984 Vol 1,George Orwell,Philosophy,TRUE
+491,To Kill a Mockingbird Vol 3,Harper Lee,Classic,TRUE
+492,The Catcher in the Rye Vol 4,J.D. Salinger,Classic,FALSE
+493,Pride and Prejudice Vol 1,Jane Austen,Classic,FALSE
+494,War and Peace Vol 5,Leo Tolstoy,History,FALSE
+495,The Great Gatsby Vol 2,F. Scott Fitzgerald,Literature,FALSE
+496,Moby Dick Vol 3,Herman Melville,Literature,FALSE
+497,1984 Vol 4,George Orwell,Classic,TRUE
+498,The Great Gatsby Vol 1,F. Scott Fitzgerald,Science Fiction,TRUE
+499,The Great Gatsby Vol 1,F. Scott Fitzgerald,Classic,FALSE
+500,The Alchemist Vol 4,Paulo Coelho,Drama,FALSE
